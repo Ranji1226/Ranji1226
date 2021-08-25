@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranji1226
+- 👋 Hi, I’m @Ranjith
 - 👀 I’m interested in electronics and software
 - 🌱 I’m currently learning Digital communication and ML
 - 📫 How to reach me ...
