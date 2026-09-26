@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ranjith
-- 👀 I’m interested in electronics and software
+- 👀 I love creating things
 
 
 <!---
